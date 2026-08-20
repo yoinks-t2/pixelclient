@@ -9,3 +9,5 @@ Over the past year or so, I've found it harder to find unblocked eaglercraft cli
 ***All Credits to: DevJakob! (you can find him here on GitHub as well!)***
 
 ***If you own this client and want this website taken down, let me know!***
+
+*uploading in a few days (facing issues with file size)
