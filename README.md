@@ -10,4 +10,4 @@ Over the past year or so, I've found it harder to find unblocked eaglercraft cli
 
 ***If you own this client and want this website taken down, let me know!***
 
-*uploading in a few days (facing issues with file size)
+*uploading in a few days (facing issues with file size)*
