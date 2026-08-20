@@ -5,3 +5,7 @@ Over the past year or so, I've found it harder to find unblocked eaglercraft cli
 ***I will try my best to keep this updated (but I'm busy most of the time!)***
 
 ***If there's any bugs, please let me know!***
+
+***All Credits to: DevJakob! (you can find him here on GitHub as well!)***
+
+***If you own this client and want this website taken down, let me know***
